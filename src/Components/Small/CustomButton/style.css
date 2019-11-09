@@ -1,0 +1,9 @@
+.button-wrapper {
+    padding: .3rem 1rem .3rem 1rem;
+    cursor: pointer;
+}
+
+.button-title {
+    font-size: .7rem;
+    text-align: center;
+}
